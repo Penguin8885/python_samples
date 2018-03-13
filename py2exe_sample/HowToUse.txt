@@ -1,0 +1,9 @@
+作成したファイルをpiyo.pyとする
+
+setup.pyの中身を適当に変更
+
+実行方法
+1) piyo.py setup.pyを同一ファイルに置く
+2) python setup.py py2exeを実行
+3) 生成されたdistフォルダ内にhoge.exeがある
+
